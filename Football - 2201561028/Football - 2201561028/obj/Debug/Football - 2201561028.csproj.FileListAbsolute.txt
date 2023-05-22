@@ -1,0 +1,8 @@
+C:\Users\hrist\source\repos\Football - 2201561028\Football - 2201561028\obj\Debug\Football - 2201561028.csproj.AssemblyReference.cache
+C:\Users\hrist\source\repos\Football - 2201561028\Football - 2201561028\obj\Debug\Football - 2201561028.csproj.SuggestedBindingRedirects.cache
+C:\Users\hrist\source\repos\Football - 2201561028\Football - 2201561028\obj\Debug\Football - 2201561028.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Football - 2201561028\Football - 2201561028\bin\Debug\Football - 2201561028.exe.config
+C:\Users\hrist\source\repos\Football - 2201561028\Football - 2201561028\bin\Debug\Football - 2201561028.exe
+C:\Users\hrist\source\repos\Football - 2201561028\Football - 2201561028\bin\Debug\Football - 2201561028.pdb
+C:\Users\hrist\source\repos\Football - 2201561028\Football - 2201561028\obj\Debug\Football - 2201561028.exe
+C:\Users\hrist\source\repos\Football - 2201561028\Football - 2201561028\obj\Debug\Football - 2201561028.pdb
